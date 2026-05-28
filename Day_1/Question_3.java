@@ -10,11 +10,15 @@ public class Question_3 {
         Scanner sc = new Scanner(System.in);
         a = sc.nextLong();
 
-        for (long i = 1; i <= a; i++) {
-            product *= i;
-        }
+        if (a < 0) {
+            System.out.println("Invalid number");
+        } else {
+            for (long i = 1; i <= a; i++) {
+                product *= i;
+            }
 
-        System.out.println("The factorial of " + a + " is " + product);
+            System.out.println("The factorial of " + a + " is " + product);
+        }
         sc.close();
     }
 }
