@@ -1,0 +1,25 @@
+400|Capital of India?|Delhi|Mumbai|Kolkata|Chennai|1
+401|2 + 2 = ?|3|4|5|6|2
+402|Largest planet?|Earth|Mars|Jupiter|Saturn|3
+403|Java is a ?|OS|Language|Browser|Database|2
+404|Sun rises in?|North|South|East|West|3
+405|5 x 6 = ?|25|30|35|40|2
+406|National animal of India?|Lion|Tiger|Elephant|Leopard|2
+407|HTML stands for?|Hyper Text Markup Language|High Text Machine Language|Hyper Tool Markup Language|Home Text Markup Language|1
+408|Square root of 64?|6|7|8|9|3
+409|Which is a programming language?|Windows|Linux|Java|Chrome|3
+410|Red Planet?|Earth|Mars|Venus|Mercury|2
+411|100 / 10 = ?|5|10|15|20|2
+412|Water formula?|CO2|H2O|O2|NaCl|2
+413|Fastest land animal?|Lion|Tiger|Cheetah|Horse|3
+414|Binary of decimal 2?|01|10|11|100|2
+415|How many days in a week?|5|6|7|8|3
+416|CPU stands for?|Central Process Unit|Central Processing Unit|Computer Process Unit|Core Processing Unit|2
+417|15 - 5 = ?|5|8|10|12|3
+418|National bird of India?|Peacock|Parrot|Sparrow|Crow|1
+419|Which is an input device?|Monitor|Printer|Keyboard|Speaker|3
+420|9 x 9 = ?|72|81|90|99|2
+421|Smallest prime number?|0|1|2|3|3
+422|Which is a web browser?|Chrome|Java|Windows|Linux|1
+423|Earth is the ? planet from Sun|2nd|3rd|4th|5th|2
+424|10 + 15 = ?|20|22|25|30|3
