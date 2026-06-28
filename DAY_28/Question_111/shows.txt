@@ -1,0 +1,3 @@
+101|Avengers Endgame|25062026|5PM|200|98
+102|Batman Begins|26062026|7PM|250|77
+103|Interstellar|27062026|8PM|300|46

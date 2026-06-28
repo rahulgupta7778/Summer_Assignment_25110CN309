@@ -1,0 +1,5 @@
+256|123456|Rahul
+255|123456|Rohan
+287|697431|Preet
+254|123456|Hari
+101|password123|Rahul Gupta

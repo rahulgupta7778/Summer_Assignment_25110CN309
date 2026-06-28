@@ -1,0 +1,5 @@
+101|Java Programming|3
+102|Python Basics|2
+103|Data Structures|0
+104|Operating System|0
+105|Advanced Computer Networks|10
